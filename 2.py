@@ -1,0 +1,1 @@
+print ("Text for my. Zdes bil Vesker.")
